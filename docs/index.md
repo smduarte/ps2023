@@ -1,6 +1,6 @@
 # Anúncios
 
-* **7-mar-2021**: As aulas teóricas e práticas começam na semana de 7 de março. 
+* **6-mar-2023**: As aulas teóricas e práticas começam na semana de 7 de março. 
 
 
 
