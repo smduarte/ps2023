@@ -1,8 +1,8 @@
 # Plano
 
-As datas dos testes são definitivas. 
+Provisório 
 
-Os horários estão sujeito a alterações pelos serviços centrais, 
-em função da disponibilidade de salas.
+Será atualizado com as datas definitivas dos dois testes
+e com as datas de entrega dos trabalhos práticos.
 
 ![](plano.png)
