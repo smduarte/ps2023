@@ -11,9 +11,10 @@ Disponíveis no sistema CLIP.
 * [Lab 3](lab3)  - Structured Spark Streaming;
 * [Lab 4](lab4)  - Kafka Streams + Flume.
 -->
+<!--
 ## Trabalho #1:
 
-<!--
+
 [Enunciado](https://github.com/smduarte/ps2022/blob/main/tp1/ps2022_tp1.ipynb)
 
 
