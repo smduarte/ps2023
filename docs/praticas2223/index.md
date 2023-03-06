@@ -1,9 +1,7 @@
-# Aulas práticas
+# Labs
 
-## Sumários das aulas práticas
-Disponíveis no sistema CLIP.
 
-## Materiais de Apoio:
+## Support Materials:
 * [Lab 1](lab1)  - Google Colab Setup;
 
 <!--
