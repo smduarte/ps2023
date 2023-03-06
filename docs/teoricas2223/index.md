@@ -1,7 +1,3 @@
-# Aulas teóricas
+# Lectures
 
-## Sumários das aulas teóricas
-Consultar sistema CLIP.
-   
-## Slides de suporte às aulas teóricas
-Os slides estão no CLIP.
+All material related to lectures is found in [Clip](http://clip.unl.pt)
