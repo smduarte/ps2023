@@ -8,4 +8,4 @@
 
 ## Materiais:
 
-[Lab1](../../../lab1/ps2023_lab1.ipynb)
+[Lab1](https://github.com/smduarte/ps2023/blob/main/lab1/ps2023_lab1.ipynb)
