@@ -1,10 +1,9 @@
-# Aula prática 1
+# Lab #1
 
-## Objectivo
+## Objective
 
-1. Exemplificar como se pode utilizar o Spark no Google Colab.
+Google Colab setup for labs.
 
-2. Resolução de exercícios simples de Spark Streaming...
 
 ## Materiais:
 
