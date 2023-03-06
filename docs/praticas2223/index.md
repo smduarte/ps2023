@@ -5,8 +5,8 @@ Disponíveis no sistema CLIP.
 
 ## Materiais de Apoio:
 * [Lab 1](lab1)  - Google Colab Setup;
-* <!--
-* 
+
+<!--
 * [Lab 2](lab2)  - (Unstructured) Spark Streaming;
 * [Lab 3](lab3)  - Structured Spark Streaming;
 * [Lab 4](lab4)  - Kafka Streams + Flume.
