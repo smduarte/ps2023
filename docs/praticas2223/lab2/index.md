@@ -6,4 +6,4 @@
 
 ## Materiais:
 
-[Lab2](https://github.com/smduarte/ps2022/blob/main/lab2/ps2022_lab2.ipynb)
+[Lab2](https://github.com/smduarte/ps2023/blob/main/lab2/ps2023_lab2.ipynb)
