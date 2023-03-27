@@ -13,4 +13,4 @@
 
 [Lab4.2 - Flume + Kafka](https://colab.research.google.com/github/smduarte/ps2023/blob/main/lab4/ps2023_lab4_2.ipynb)
 
-[Lab3 - Solution](https://colab.research.google.com/github/smduarte/ps2022/blob/main/lab4/ps2023_lab3_sol.ipynb)
+[Lab3 - Solution](https://colab.research.google.com/github/smduarte/ps2023/blob/main/lab4/ps2023_lab3_sol.ipynb)
