@@ -8,7 +8,7 @@
 * [Lab 4](lab4)  - Kafka Streams + Flume.
 
 ## Project #1:
-[Text](https://github.com/smduarte/ps2023/blob/main/tp1/ps2023_tp1.ipynb)
+[Notebook](https://github.com/smduarte/ps2023/blob/main/tp1/ps2023_tp1.ipynb)
 
 <!--
 -->
