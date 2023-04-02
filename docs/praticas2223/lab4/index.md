@@ -1,15 +1,16 @@
-# Aula prática 4
+# Lab #4
 
-## Objectivo
+## Objectives
 
-1. Discussão da solução dos exercícios do Lab3;
-2. Resolução de exercícios Spark Streaming com fontes Kafka;
-3. Injesting data using Flume into a Kafka stream.
+1. Discussion of the Lab #3 solutions.
+2. Exercices:
+  + Kafka as stream source for Structured Spark Streaming
+  + Use Flume to inject stream data into Kafka
 
 ## Materiais:
 
-[Lab4.1 - Kafka Streaming](https://colab.research.google.com/github/smduarte/ps2022/blob/main/lab4/ps2022_lab4_1.ipynb)
+[Lab4.1 - Kafka Streaming](https://colab.research.google.com/github/smduarte/ps2023/blob/main/lab4/ps2023_lab4_1.ipynb)
 
-[Lab4.2 - Flume + Kafka](https://colab.research.google.com/github/smduarte/ps2022/blob/main/lab4/ps2022_lab4_2.ipynb)
+[Lab4.2 - Flume + Kafka](https://colab.research.google.com/github/smduarte/ps2023/blob/main/lab4/ps2023_lab4_2.ipynb)
 
-[Lab3 - Solução](https://colab.research.google.com/github/smduarte/ps2022/blob/main/lab4/ps2022_lab3_sol.ipynb)
+[Lab3 - Solution](https://colab.research.google.com/github/smduarte/ps2023/blob/main/lab4/ps2023_lab3_sol.ipynb)
